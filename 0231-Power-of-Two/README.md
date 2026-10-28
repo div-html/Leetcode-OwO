@@ -44,7 +44,7 @@ Example 3:
 
 ## Solution
 
-- **Language**: Python3
+- **Language**: C++
 
 ---
 
